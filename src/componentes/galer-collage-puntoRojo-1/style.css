@@ -1,0 +1,26 @@
+.petion {
+    background-color: azure;
+    display: flex;
+    flex-direction: row;
+    padding: 5%;
+}
+.petion-img {
+    width: 500px;
+    height: 550px;
+}
+.petion-h2 {
+    font-size: 50px;
+    text-align: center;
+}
+.petion-LIGHTBOX {
+    background-color: red;
+    border: 15px solid red;
+    border-radius: 40px;
+    border-width: 5px;
+    color: white;
+    font-weight: bold;
+    text-decoration: none;
+    margin: 10%;
+    padding-top: 10px;
+}
+
