@@ -1,0 +1,21 @@
+import './styles.css';
+import image from './image.jpg';
+
+function App() {
+  return (
+    <div className="container">
+      <div className="left">
+        <img src={image} alt="imagen" />
+      </div>
+      <div className="right">
+        <h1>Organiza tu tiempo</h1>
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nisl vel bibendum blandit, velit nunc aliquam sapien, vel tincidunt sapien velit vel velit. </p>
+        <p>Nulla facilisi. Sed euismod, nisl vel bibendum blandit, velit nunc aliquam sapien, vel tincidunt sapien velit vel velit.</p>
+        <p>Nulla facilisi. Sed euismod, nisl vel bibendum blandit, velit nunc aliquam sapien, vel tincidunt sapien velit vel velit.</p>
+        <button className="red-button">Botón</button>
+      </div>
+    </div>
+  );
+}
+
+export default App;
