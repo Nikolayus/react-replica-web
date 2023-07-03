@@ -11,12 +11,12 @@ function GalerCollagepuntoRojo() {
         <img src= {image} alt="imagen galería collage" />
       </div>
       <div className="right">
-        <h1>Organize Your Time And Start Getting Results</h1>
-        <h2>Sync is the first mobile app on the market to harness the power of social connections to hel you stop procrastinating and start getting things done. Give it a try and the changes right away</h2>
+        <h1 className="negrita">Organize Your Time And Start Getting Results</h1>
+        <p>Sync is the first mobile app on the market to harness the power of social connections to hel you stop procrastinating and start getting things done. Give it a try and the changes right away</p>
         <p>•	Analyse and evaluate your current and productivity</p>
         <p>•	Begin monitoring your day to day routine with Sync appNulla facilisi. Sed euismod, nisl vel bibendum blandit, velit nunc aliquam sapien, vel tincidunt sapien velit vel velit.</p>
         <p>•	See the inproved results in no more a couple of weeks</p>
-        <button className="LIGHTBOX">Botón</button>
+        <button className="lightbox">LIGHTBOX</button>
       </div>
     </div>
   );
