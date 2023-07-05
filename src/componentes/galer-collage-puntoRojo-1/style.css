@@ -1,0 +1,43 @@
+body {
+    font-family: Arial, sans-serif;
+  }
+
+  .negrita {
+    font-weight: bold;
+  }
+
+.petion {
+    width: 100%;
+    background-color: rgb(219, 201, 201);
+    display: flex;
+    flex-direction: row;
+    padding: 5%;
+}
+.petion-img {
+    width: 500px;
+    height: 550px;
+    flex-direction: row;
+    justify-content: flex-start
+}
+petion-h1 {
+    font-size: 60px;
+    text-align: center;
+}
+
+.petion-h2 {
+    font-size: 50px;
+    text-align: center;
+}
+.lightbox {
+    background-color: red;
+    border: 15px solid red;
+    align-items: center;
+    border-radius: 40px;
+    border-width: 5px;
+    color: white;
+    font-weight: bold;
+    text-decoration: none;
+    margin: 10%;
+    padding-top: 10px;
+}
+
