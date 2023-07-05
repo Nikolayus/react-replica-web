@@ -1,0 +1,37 @@
+
+
+.left {
+    background-color: rgb(217, 0, 255);
+    border-radius: 0px;
+    border-width: 5px;
+    color: white;
+    font-weight: bold;
+    text-decoration: none;
+    margin: 10%;
+    padding-top: 10px;
+}
+
+.text {
+    font-size: 50px;
+    text-align: center;
+    color: #2e2b2b; 
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+.imagen {
+    width: 500px;
+    height: 550px;
+}
+
+.botones {
+    background-color: rgb(253, 248, 248);
+    border: 15px solid rgb(252, 249, 249);
+    border-radius: 40px;
+    border-width: 5px;
+    color: white;
+    font-weight: bold;
+    text-decoration: none;
+    margin: 10%;
+    padding-top: 10px;
+}
